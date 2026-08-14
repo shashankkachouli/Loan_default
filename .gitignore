@@ -1,0 +1,17 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Large Model Files & Data
+*.pkl
+*.joblib
+*.csv
+*.parquet
+.DS_Store
+
+# Colab / Jupyter checkpoints
+.ipynb_checkpoints/
